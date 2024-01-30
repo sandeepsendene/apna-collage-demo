@@ -1,3 +1,3 @@
 # apna-college-demo
 this is my first git reposiratry
-author- sandeep sendane testing api
+author- sandeep sendane 
